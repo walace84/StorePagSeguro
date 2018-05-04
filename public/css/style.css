@@ -1,0 +1,83 @@
+/* STYLO DO PAGINA PRINCIPAL  */
+
+img.logo{
+	max-width: 140px;
+	float: left;
+}
+
+.menu-header{
+	background: #3dba7a;
+	border-color: #fff;
+	border-radius: 0;
+}
+
+.title{
+	font-size: 2em;
+	color: #3dba7a; 
+}
+
+.products{
+	margin: 0 auto;
+}
+
+.product{
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.product h2{
+	text-transform: uppercase;
+}
+
+.product a{
+	background: #3dba7a;
+	color: #fff;
+	width: 100%;
+	padding: 6px 0;
+	max-width: 200px;
+}
+
+.product a:hover{
+	background: #378842;
+	color: #fff;
+}
+
+/* CARRINHO DE COMPRAS */
+
+.img-cart{
+	max-width: 40px;
+}
+
+.total-cart{
+	float: right;
+	padding: 15px;
+	background: #3dba7a;
+	color: #fff;
+}
+
+.finish-cart a{
+	background: #4682B4;
+	color: #fff;
+	padding: 15px;
+	margin: 15px 0;
+	font-weight: bold;
+	text-decoration: none;
+	float: right;
+}
+
+.cart-action-item{
+	font-size: 2em;
+	color: #378842;
+}
+
+/*   PERFIL DO USUARIO */
+
+.btn-botao{
+	width: 100%;
+	background-color:#3dba7a;
+	color: #fff;
+}
+
+.form-custon{
+	margin-bottom: 50px;
+}
